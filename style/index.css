@@ -50,6 +50,7 @@ h1 {
     font-size: 3rem;
     margin:1% 0 0 1%;
     color:black;
+    text-transform: uppercase;
 }
 nav {
     margin:2% 0 1% 2%;
@@ -79,6 +80,11 @@ nav a {
 .right h2 {
     margin: 3% 0;
     font-size:1.8rem;
+}
+.right p {
+    margin: 3% 0;
+    font-size:1.5rem;
+    line-height: 1.4;
 }
 /* .right a {
     border:1px solid black;
