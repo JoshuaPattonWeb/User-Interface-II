@@ -81,6 +81,7 @@ nav a {
 .right h2 {
     margin: 3% 0;
     font-size:1.8rem;
+    text-transform: uppercase;
 }
 .right p {
     margin: 3% 0;
